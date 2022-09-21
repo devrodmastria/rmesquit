@@ -7,8 +7,10 @@ App Developer with a demonstrated history of building and shipping apps for both
 Technical Founder for Language Learning Apps
 * Developed [Vopio App](https://github.com/rmesquit/vopio-android) (for college students)
   * Designed to be distributed at scale
+  * Built to support learning vocabulary from STEM courses
 * Developed Audios App (for ESL students)
   * Designed to validate/review proposed features
+  * Built to support learning any language
 
 ### Software Agency - Troy, MI
 Mobile App and Database Developer

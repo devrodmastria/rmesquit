@@ -6,11 +6,11 @@ App Developer with a demonstrated history of building and shipping apps for both
 ### EduTech Software Startup - Ann Arbor, MI
 Technical Founder for Language Learning Apps
 * Developed [Vopio App](https://github.com/rmesquit/vopio-android) (for college students)
-  * Designed to be distributed at scale
+  * Designed for distribution at scale
   * Built to support learning vocabulary from STEM courses
 * Developed Audios App (for ESL students)
   * Designed to validate/review proposed features
-  * Built to support learning any language
+  * Built to support learning any spoken language
 
 ### Software Agency - Troy, MI
 Mobile App and Database Developer

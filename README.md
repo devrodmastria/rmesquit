@@ -14,14 +14,4 @@ Passionate engineering professional with a B.Sc. in computer science and softwar
   * Built to support learning any spoken language
 
 ### External Projects
-**Mobile App and Database Developer** for agency in Troy, MI
-* Performed extensive unit testing for bus tracker app
-* Generated detailed documentation for development team to implement fixes
-* Redesigned and simplified AWS database using Talend Studio
-
-**Android Software Engineer** for agency in Ann Arbor, MI
-* Implemented Android BLE API with estimote beacons and BLE-enabled workout machine
-* Implemented Google Cloud Platform and Firebase on multiple apps
-* Updated legacy apps to Android Architecture Components with Java and Kotlin
-* Worked with Quality Assurance team to debug and document new features
-* Worked with UX/UI team to ensure projects met or exceeded client expectations
+Complete list of projects available in my [LinkedIn page](https://www.linkedin.com/in/rodmesquita/details/experience/)

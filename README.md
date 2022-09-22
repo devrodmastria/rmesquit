@@ -4,7 +4,7 @@ Passionate engineering professional with a B.Sc. in computer science and softwar
 
 ## Work Experience - Android
 
-### Software Startup Founder - Ann Arbor, MI
+### Software Startup Founder
 **Technical Founder** for Language Learning Product
 * Developed [Vopio App](https://github.com/rmesquit/vopio-android) (for college students)
   * Designed for distribution at scale

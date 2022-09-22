@@ -1,6 +1,6 @@
 
 ## About Me
-Passionate engineering professional with a B.Sc. in computer science and software engineering.
+Creative engineering professional with a B.Sc. in computer science and software engineering.
 
 ## Work Experience - Android
 

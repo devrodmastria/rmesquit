@@ -6,7 +6,7 @@ Creative engineering professional with a B.Sc. in computer science and software 
 
 ### Software Startup Founder
 **Technical Founder** for Language Learning Product
-* Developed [Vopio App](https://github.com/rmesquit/vopio-android) (for college students)
+* Developed [Vopio App](https://github.com/rmesquit/vopio-android) (smart dictionary for college students)
   * Designed for distribution at scale
   * Built to support learning vocabulary from STEM courses
 * Developed Audios App (for ESL students)

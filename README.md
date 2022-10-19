@@ -1,17 +1,16 @@
 
 ## About Me
-Creative engineering professional with a B.Sc. in computer science and software engineering.
+Creative mobile app developer with a B.Sc. in Computer Science and Software Engineering.
 
 ## Work Experience - Android
 
-### Software Startup Founder
-**Technical Founder** for Language Learning Product
-* Developed [Vopio App](https://github.com/rmesquit/vopio-android) (smart dictionary for college students)
-  * Designed for distribution at scale
-  * Built to support learning vocabulary from STEM courses
-* Developed Audios App (for ESL students)
-  * Designed to validate/review proposed features
-  * Built to support learning any spoken language
-
-### External Projects
+### Client Projects
 Complete list of projects available in my [LinkedIn page](https://www.linkedin.com/in/rodmesquita/details/experience/)
+
+### Startup Founder
+**Technical Founder** for Language Learning App
+* Developed Vopio App (smart dictionary for college students)
+  * Designed to support learning vocabulary from STEM lectures
+* Developed Audios App (for ESL students)
+  * Designed to validate/review features (User Acceptance Testing)
+  * Built to support learning any spoken language

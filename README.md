@@ -1,6 +1,6 @@
 
 ## About Me
-Creative mobile app developer with a B.Sc. in Computer Science and Software Engineering.
+Certified mobile app developer with a B.Sc. in Computer Science and Software Engineering.
 
 ## Work Experience - Mobile App Development
 
